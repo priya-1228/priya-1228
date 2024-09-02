@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Priya Foujdar</h1>
-<h3 align="center">An aspiring Software Developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya-1228&label=Profile%20views&color=0e75b6&style=flat" alt="priya-1228" /> </p>
 
+- 🔭 I’m currently working on **Movie Recommender System.**
+
 - 🌱 I’m currently learning **Machine Learning and Data Structures.**
+
+- 🤝 Portfolio Website **https://priya-1228.github.io/Portfolio-Website/**
 
 - 💬 Ask me about **Data Structures and Algorithms.**
 
 - 📫 How to reach me **priyafoujdar28@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
