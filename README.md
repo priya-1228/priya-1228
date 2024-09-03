@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/priya-foujdar-a42b04221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-foujdar-a42b04221" height="30" width="40" /></a>
 <a href="https://instagram.com/priyaa28_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyaa28_" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@priyafoujdar28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@priyafoujdar28" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
